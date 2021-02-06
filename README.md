@@ -1,7 +1,7 @@
 # Repositório da Sprint 8
 
 ## Objetivo
-O objetivo deste projeto é utilizar um Arduino Uno mais um Sensor Magnético para monitorar se a porta de um Rack de Rede está **ABERTO** ou **FECHADO**; enviar essa informação via Internet utilizando o protocolo MQTT (***M****essage **Q**ueuing **T**elemtry **T**ransport*) para um servidor MQTT hospedado na ***A**mazon **W**eb **S**ervice* (AWS) e exibir a informação em um client MQTT [(MQTT Dash)](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=en&gl=US) instalado em um Smartphone, conforme a imagem abaixo.
+O objetivo deste projeto é utilizar um Arduino Uno mais um Sensor Magnético para monitorar se a porta de um Rack de Rede está **ABERTO** ou **FECHADO**; enviar essa informação via Internet utilizando o protocolo MQTT (***M****essage **Q**ueuing **T**elemtry **T**ransport*) para um servidor MQTT hospedado na ***A**mazon **W**eb **S**ervice* (AWS) e exibir a informação em um client MQTT ([MQTT Dash])(https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=en&gl=US) instalado em um Smartphone, conforme a imagem abaixo.
 
 ![](https://camo.githubusercontent.com/7beef2d4780d87a603d7de49b2da0467c8537dff96575b628a04bd4010ebb1cc/68747470733a2f2f692e696d6775722e636f6d2f4d576870586b562e706e67)
 
